@@ -1,3 +1,5 @@
+This is the second build of a project to track stock and make predictions as to future performance.
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
