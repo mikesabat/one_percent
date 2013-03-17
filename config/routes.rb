@@ -1,4 +1,7 @@
 OnePercent::Application.routes.draw do
+  root :to => 'stocks#today'
+  get  'about' => "stocks#about"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
