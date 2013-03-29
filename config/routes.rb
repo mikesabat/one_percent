@@ -1,4 +1,6 @@
 OnePercent::Application.routes.draw do
+  resources :quotes
+
   root :to => 'stocks#today'
   get  'about' => "stocks#about"
 

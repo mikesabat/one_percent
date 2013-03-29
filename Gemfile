@@ -3,6 +3,8 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.3'
 gem 'jquery-rails'
 gem 'json'
+gem 'yahoofinance'
+gem 'nokogiri'
 
 
 group :development do
