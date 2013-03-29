@@ -4,6 +4,7 @@ gem 'rails', '3.2.3'
 gem 'jquery-rails'
 gem 'json'
 
+
 group :development do
 	gem 'sqlite3'
 end
